@@ -6,9 +6,9 @@ For example
 	var message = new char[,]
         	{
         		{ 'H', 'A', 'V' }, 
-                        { 'D', 'A', 'E' }, 
-                        { 'E', 'Y', 'A' }, 
-                        { 'C', 'I', 'N' }
-                 };
+                { 'D', 'A', 'E' }, 
+                { 'E', 'Y', 'A' }, 
+                { 'C', 'I', 'N' }
+            };
 
 will be printed as HAVEANICEDAY
