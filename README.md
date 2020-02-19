@@ -5,10 +5,10 @@ For example
 
 	var message = new char[,]
         	{
-        	{ 'H', 'A', 'V' }, 
-                { 'D', 'A', 'E' }, 
-                { 'E', 'Y', 'A' }, 
-                { 'C', 'I', 'N' }
+			{ 'H', 'A', 'V' }, 
+			{ 'D', 'A', 'E' }, 
+			{ 'E', 'Y', 'A' }, 
+			{ 'C', 'I', 'N' }
             };
 
 will be printed as HAVEANICEDAY
