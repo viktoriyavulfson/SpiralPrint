@@ -5,7 +5,7 @@ For example
 
 	var message = new char[,]
         	{
-        		{ 'H', 'A', 'V' }, 
+        	{ 'H', 'A', 'V' }, 
                 { 'D', 'A', 'E' }, 
                 { 'E', 'Y', 'A' }, 
                 { 'C', 'I', 'N' }
